@@ -1,6 +1,6 @@
 Hey Everyone 👋🏻
 
-Here is the <strong> E-commerce landing page.</strong>
+Here is the <strong><a href="https://thetechology.github.io/Responsive-E-Commerce-Product-UI-UX-Design-Using-HTML-CSS-Javascript/"> E-commerce landing page</a>.</strong>
 
 Hope you enjoyed it. Thanks a million for your support and feedback.
 
